@@ -1,0 +1,245 @@
+{
+	"status": "ok",
+	"totalResults": 34,
+	"articles": [{
+		"source": {
+			"id": "google-news",
+			"name": "Google News"
+		},
+		"author": null,
+		"title": "Doria anuncia vacinação de professores de SP e outras medidas contra covid; acompanhe a coletiva - Educação - Estadão - Educação Estadão",
+		"description": null,
+		"url": "https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vZWR1Y2FjYW8uZXN0YWRhby5jb20uYnIvbm90aWNpYXMvZ2VyYWwsZG9yaWEtdmFpLWFudW5jaWFyLXZhY2luYWNhby1kZS1wcm9mZXNzb3Jlcy1hLXBhcnRpci1kZS0xMi1kZS1hYnJpbCw3MDAwMzY1ODc1MdIBggFodHRwczovL2VkdWNhY2FvLmVzdGFkYW8uY29tLmJyL25vdGljaWFzL2dlcmFsLGRvcmlhLXZhaS1hbnVuY2lhci12YWNpbmFjYW8tZGUtcHJvZmVzc29yZXMtYS1wYXJ0aXItZGUtMTItZGUtYWJyaWwsNzAwMDM2NTg3NTEuYW1w?oc=5",
+		"urlToImage": null,
+		"publishedAt": "2021-03-24T15:59:43Z",
+		"content": null
+	}, {
+		"source": {
+			"id": "globo",
+			"name": "Globo"
+		},
+		"author": null,
+		"title": "Nasa anuncia primeira tentativa de voo em Marte de helicóptero Ingenuity para abril; Veja plano de voo - G1",
+		"description": "Evento será a primeira tentativa de voo de um dispositivo motorizado em outro planeta. Data prevista é 8 de abril.",
+		"url": "https://g1.globo.com/ciencia-e-saude/noticia/2021/03/24/nasa-anuncia-primeira-tentativa-de-voo-do-helicoptero-ingenuity-em-marte-para-abril.ghtml",
+		"urlToImage": "https://s2.glbimg.com/CnXE_WW3pBK09RKhNsdVteDV2EM=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/9376534.jpg",
+		"publishedAt": "2021-03-24T14:52:01Z",
+		"content": "A Nasa, agência espacial americana, anunciou na terça-feira (23) que fará a primeira tentativa de voo de um dispositivo motorizado em Marte no início de abril, quando testará o helicóptero Ingenuity.… [+3156 chars]"
+	}, {
+		"source": {
+			"id": "globo",
+			"name": "Globo"
+		},
+		"author": null,
+		"title": "Vídeo de bastidores: Mancini pediu jogo de atitude para o Corinthians contra o Mirassol - globoesporte.com",
+		"description": "Timão foi a Volta Redonda e venceu o Mirassol por 1 a 0",
+		"url": "https://globoesporte.globo.com/futebol/times/corinthians/noticia/noticias-corinthians-bastidores-mirassol-video.ghtml",
+		"urlToImage": "https://s2.glbimg.com/dBY8miqlr2fLp4YGz510bmmf3XU=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/9377447.jpg",
+		"publishedAt": "2021-03-24T14:41:03Z",
+		"content": "Em vídeo com os bastidores do jogo, divulgado pela \"Corinthians TV\", o treinador aparece pedindo que seus jogadores mostrem disposição na partida válida pela quinta rodada do Paulistão. \r\n Temos que … [+953 chars]"
+	}, {
+		"source": {
+			"id": "globo",
+			"name": "Globo"
+		},
+		"author": null,
+		"title": "Petrobras anuncia redução nos preços da gasolina e do diesel - G1",
+		"description": "A queda no preço do diesel vem após cinco altas consecutivas este ano. Já a gasolina subiu seis vezes antes de ter o preço reduzido na semana passada.",
+		"url": "https://g1.globo.com/economia/noticia/2021/03/24/petrobras-anuncia-reducao-nos-precos-da-gasolina-e-do-diesel.ghtml",
+		"urlToImage": "https://s2.glbimg.com/qoRDMDfZJd4SU0-fSONa2biKkTg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/X/D/wpQABCS7es97VqHVDx9g/tttpn-pre-os-dos-combust-veis-nas-refinarias-4-.png",
+		"publishedAt": "2021-03-24T14:39:28Z",
+		"content": "A Petrobras vai reduzir o preço da gasolina e do diesel nas refinarias a partir desta quinta-feira (25), informou a companhia. É a segunda queda no preço da gasolina este ano e a primeira do diesel. … [+1365 chars]"
+	}, {
+		"source": {
+			"id": "google-news",
+			"name": "Google News"
+		},
+		"author": null,
+		"title": "Botafogo x Flamengo opõe defesa e ataque mais eficientes do Carioca - FogãoNET",
+		"description": null,
+		"url": "https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmZvZ2FvbmV0LmNvbS9ub3RpY2lhL2JvdGFmb2dvLWZsYW1lbmdvLW9wb2UtZGVmZXNhLWF0YXF1ZS1tYWlzLWVmaWNpZW50ZXMtY2FyaW9jYS_SAWJodHRwczovL3d3dy5mb2dhb25ldC5jb20vbm90aWNpYS9ib3RhZm9nby1mbGFtZW5nby1vcG9lLWRlZmVzYS1hdGFxdWUtbWFpcy1lZmljaWVudGVzLWNhcmlvY2EvYW1wLw?oc=5",
+		"urlToImage": null,
+		"publishedAt": "2021-03-24T14:23:00Z",
+		"content": null
+	}, {
+		"source": {
+			"id": null,
+			"name": "Canalrural.com.br"
+		},
+		"author": null,
+		"title": "JBS anuncia compromisso global de zerar emissão de gases de efeito estufa até 2040 - Canal Rural",
+		"description": "A meta Net Zero inclui as operações a cadeia de valor, que engloba produtores agrícolas e demais fornecedores",
+		"url": "https://www.canalrural.com.br/noticias/jbs-anuncia-compromisso-global-de-zerar-gases-com-efeito-estufa-ate-2040/",
+		"urlToImage": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/joacostajuniorEmbrapa.jpg",
+		"publishedAt": "2021-03-24T14:15:00Z",
+		"content": "Foto: João Costa Júnior/Embrapa\r\nA JBS, segunda maior empresa de alimentos do mundo e líder no setor de proteína, anunciou que até 2040, irá zerar o balanço de suas emissões de gases causadores do ef… [+4525 chars]"
+	}, {
+		"source": {
+			"id": null,
+			"name": "Uol.com.br"
+		},
+		"author": "UOL",
+		"title": "Rodolffo diz que se sentiu traído e que colocaria Gilberto no paredão - UOL",
+		"description": "Na madrugada de ontem no \"BBB 21\" (TV Globo), Sarah questionou Rodolffo sobre quem ele mandaria caso ganhe a prova do líder e o brother respondeu que ainda não tinha uma opinião formada.Entretanto, na manhã de hoje, na área externa da casa, Rodolffo admit",
+		"url": "https://tvefamosos.uol.com.br/noticias/redacao/2021/03/24/rodolffo-diz-que-se-sentiu-traido-e-que-colocaria-gilberto-no-paredao.htm",
+		"urlToImage": "https://conteudo.imguol.com.br/c/entretenimento/c9/2021/03/24/bbb-21-rodolffo-diz-que-colocaria-gilberto-no-paredao-1616594201736_v2_615x300.png",
+		"publishedAt": "2021-03-24T14:13:16Z",
+		"content": "Na madrugada de ontem no \"BBB 21\" (TV Globo), Sarah questionou Rodolffo sobre quem ele mandaria caso ganhe a prova do líder e o brother respondeu que ainda não tinha uma opinião formada.\r\nEntretanto,… [+816 chars]"
+	}, {
+		"source": {
+			"id": null,
+			"name": "Uol.com.br"
+		},
+		"author": "UOL",
+		"title": "Paulistão: Federação suspende jogo entre Santos e Ponte Preta no Rio - UOL Esporte",
+		"description": "A FPF (Federação Paulista de Futebol) anunciou hoje a suspensão da partida entre Ponte Preta e Santos, pelo Paulistão. O jogo estava programado para amanhã, no estádio São Januário, no Rio de Janeiro. Porém, um decreto municipal proibiu partidas de futebo",
+		"url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2021/03/24/ponte-preta-x-santsos---suspenso.htm",
+		"urlToImage": "https://conteudo.imguol.com.br/c/esporte/d1/2021/03/14/equipe-do-santos-durante-partida-contra-o-ituano-1615761308886_v2_615x300.jpg",
+		"publishedAt": "2021-03-24T14:07:42Z",
+		"content": "A FPF (Federação Paulista de Futebol) anunciou hoje a suspensão da partida entre Ponte Preta e Santos, pelo Paulistão. O jogo estava programado para amanhã, no estádio São Januário, no Rio de Janeiro… [+1043 chars]"
+	}, {
+		"source": {
+			"id": "globo",
+			"name": "Globo"
+		},
+		"author": null,
+		"title": "Minas Gerais tem o pior dia da pandemia, com recorde de casos e de mortes por Covid em 24 horas - G1",
+		"description": "Foram 374 óbitos notificados e mais de 13,7 mil pessoas infectadas em apenas um dia.",
+		"url": "https://g1.globo.com/mg/minas-gerais/noticia/2021/03/24/minas-gerais-tem-o-pior-dia-da-pandemia-com-recorde-de-casos-e-de-mortes-por-covid-em-24-horas.ghtml",
+		"urlToImage": "https://s2.glbimg.com/QIxKiB5dBVdDUnF-vzSd1Xe1YZc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/7/w/OpOIrARhuBGzlxgbVsGw/mascaras-caicara.jpg",
+		"publishedAt": "2021-03-24T13:51:48Z",
+		"content": "Minas Gerais bateu novo recorde de mortes e casos por Covid-19 em 24 horas. A informação foi divulgada nesta quarta-feira (24) pela Secretaria de Estado de Saúde (SES). Foram 374 óbitos notificados e… [+847 chars]"
+	}, {
+		"source": {
+			"id": "globo",
+			"name": "Globo"
+		},
+		"author": null,
+		"title": "Bolsonaro anuncia comitê com o Congresso, mas insiste no 'tratamento precoce' - G1",
+		"description": "Tratamento defendido pelo presidente envolve remédios e métodos que, de acordo com a ciência, não têm eficácia. No auge da pandemia, Bolsonaro, governadores e chefes de poderes se reuniram para discutir ações.",
+		"url": "https://g1.globo.com/politica/noticia/2021/03/24/apos-reuniao-bolsonaro-fala-em-parceria-com-governadores-e-congresso-contra-a-covi.ghtml",
+		"urlToImage": "https://s2.glbimg.com/vXJYuN7g6mN-QRx4Pro7qxt8ZdM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/o/1/B9aaRXQkKdXpAsqCvjNQ/gnews-ed10-limpo-20210324-0911-frame-169954.jpeg",
+		"publishedAt": "2021-03-24T13:51:03Z",
+		"content": "Após reunião na residência oficial do Palácio da Alvorada com governadores, ministros e chefes de poderes, o presidente Jair Bolsonaro anunciou a criação de um comitê em parceria com o Congresso para… [+4999 chars]"
+	}, {
+		"source": {
+			"id": "globo",
+			"name": "Globo"
+		},
+		"author": null,
+		"title": "OAB pede à PGR que denuncie Bolsonaro no STF por crime em condutas na pandemia - G1",
+		"description": "Ordem concluiu que presidente deve responder por defesa e gasto com produção de remédio sem eficácia contra a Covid-19, por oposição a isolamento e resistência à compra de vacina.",
+		"url": "https://g1.globo.com/politica/noticia/2021/03/24/oab-pede-a-pgr-que-denuncie-bolsonaro-no-stf-por-crime-em-condutas-na-pandemia.ghtml",
+		"urlToImage": "https://s2.glbimg.com/QX64gog0y_JIkTFMlx1oYNo9Ypc=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/8861959.jpg",
+		"publishedAt": "2021-03-24T13:37:57Z",
+		"content": "A Ordem dos Advogados do Brasil (OAB) pediu à Procuradoria-Geral da República (PGR) que denuncie o presidente Jair Bolsonaro no Supremo Tribunal Federal (STF) por ter cometido quatro crimes previstos… [+2964 chars]"
+	}, {
+		"source": {
+			"id": "info-money",
+			"name": "InfoMoney"
+		},
+		"author": null,
+		"title": "Ações do Carrefour disparam 14% com anúncio de aquisição do BIG Brasil; CCR sobe 5% após assinar aditivo com SP - InfoMoney",
+		"description": "Confira os destaques da B3 na sessão desta quarta-feira (24)",
+		"url": "https://www.infomoney.com.br/mercados/acoes-do-carrefour-disparam-14-com-anuncio-de-compra-do-big-brasil-ccr-sobe-5-apos-assinar-aditivo-com-sp/",
+		"urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2019/06/carrefour-1.jpg?fit=900%2C600&quality=70&strip=all",
+		"publishedAt": "2021-03-24T13:24:13Z",
+		"content": "SÃO PAULO – As ações do Carrefour Brasil (CRFB3) são destaque de alta na sessão desta quarta-feira, com ganhos de cerca de 14%. A varejista informou durante a madrugada que chegou a um acordo para ad… [+17263 chars]"
+	}, {
+		"source": {
+			"id": "globo",
+			"name": "Globo"
+		},
+		"author": null,
+		"title": "Carla Diaz fala sobre relacionamento de Arthur no 'BBB21': 'Estou muito chocada' - G1",
+		"description": "Ana Maria mostrou vídeos do professor de crossfit falando pelas costas da atriz no 'Mais Você' desta quarta (24). 'É triste homens terem atitudes e mulheres sendo julgadas'.",
+		"url": "https://g1.globo.com/pop-arte/noticia/2021/03/24/carla-diaz-fala-sobre-bbb21-quem-nunca-fez-uma-interpretacao-diferente-do-que-e-a-vida-real.ghtml",
+		"urlToImage": "https://s2.glbimg.com/_678yl3PNYA4zfJxntBhTFagGnU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/o/1/YnAZsfTFiqcfPnirhoXw/2021-03-24-4-.png",
+		"publishedAt": "2021-03-24T13:10:30Z",
+		"content": "Carla Diaz comentou sua participação no \"BBB21\" em entrevista a Ana Maria Braga, no \"Mais Você\" desta quarta (24). A atriz foi eliminada com 44,9% dos votos em paredão acirrado com Rodolffo (44,45%) … [+2966 chars]"
+	}, {
+		"source": {
+			"id": null,
+			"name": "Tecmundo.com.br"
+		},
+		"author": "Nilton Kleina",
+		"title": "Samsung começa a entregar celulares Galaxy usando drones - Tecmundo",
+		"description": "Projeto leva produtos à casa do consumidor em até 3 minutos",
+		"url": "https://www.tecmundo.com.br/mercado/214337-samsung-comeca-entregar-celulares-galaxy-usando-drones.htm",
+		"urlToImage": "https://img.ibxk.com.br/2021/03/24/24094231143041.jpg",
+		"publishedAt": "2021-03-24T12:56:21Z",
+		"content": "A fabricante sul-coreana Samsung e a empresa Manna Drone Delivery iniciaram um novo projeto na Irlanda para realizar a entrega pelo ar de produtos comprados online.\r\nA iniciativa permite que consumid… [+867 chars]"
+	}, {
+		"source": {
+			"id": null,
+			"name": "Correio24horas.com.br"
+		},
+		"author": "Estadão Conteúdo",
+		"title": "Bolsonaro mentiu quatro vezes durante pronunciamento; veja lista - Jornal Correio",
+		"description": "Em outras três oportunidades deu declarações exageradas",
+		"url": "https://www.correio24horas.com.br/noticia/nid/bolsonaro-mentiu-quatro-vezes-durante-pronunciamento-veja-lista/",
+		"urlToImage": "https://www.correio24horas.com.br//fileadmin/_processed_/b/e/csm_bolsonaropronunciamento_af4e28011a.jpg",
+		"publishedAt": "2021-03-24T12:51:18Z",
+		"content": null
+	}, {
+		"source": {
+			"id": null,
+			"name": "Uol.com.br"
+		},
+		"author": "UOL",
+		"title": "Unicamp confirma caso de hepatite medicamentosa relacionada ao 'kit covid' - UOL Notícias",
+		"description": "O Hospital das Clínicas da Unicamp (Universidade Estadual de Campinas) confirmou que identificou um caso de hepatite medicamentosa relacionada ao uso do \"kit covid\" - tratamento sem eficácia comprovada, com uso de azitromicina, hidroxicloroquina e ivermec",
+		"url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/03/24/unicamp-confirma-caso-de-hepatite-medicamentosa-relacionada-ao-kit-covid.htm",
+		"urlToImage": "https://conteudo.imguol.com.br/c/noticias/a4/2021/01/12/kit-covid-de-autazes-1610465676234_v2_750x421.jpg",
+		"publishedAt": "2021-03-24T12:21:23Z",
+		"content": "O Hospital das Clínicas da Unicamp (Universidade Estadual de Campinas) confirmou que identificou um caso de hepatite medicamentosa relacionada ao uso do \"kit covid\" - tratamento sem eficácia comprova… [+1873 chars]"
+	}, {
+		"source": {
+			"id": null,
+			"name": "Investing.com"
+		},
+		"author": "Investing.com",
+		"title": "Fique por dentro das 5 principais notícias do mercado desta quarta-feira Por Investing.com - Investing.com Brasil",
+		"description": "Fique por dentro das 5 principais notícias do mercado desta quarta-feira",
+		"url": "https://br.investing.com/news/stock-market-news/fique-por-dentro-das-5-principais-noticias-do-mercado-desta-quartafeira-845655",
+		"urlToImage": "https://i-invdn-com.akamaized.net/news/LYNXNPEB6S0RH_L.jpg",
+		"publishedAt": "2021-03-24T12:08:00Z",
+		"content": "Por Geoffrey Smith e Ana Carolina Siedschlag\r\nInvesting.com - Bolsonaro é alvo de panelaços durante pronunciamento, no dia em que o Brasil atinge a triste marca de 3 mil óbitos por Covid-19 em 24 hor… [+5868 chars]"
+	}, {
+		"source": {
+			"id": null,
+			"name": "Superesportes.com.br"
+		},
+		"author": "Superesportes, Superesportes",
+		"title": "Keno, do Atlético, elege o time a ser batido na Copa Libertadores - Superesportes",
+		"description": "Atacante disse que o Galo tem que ter um trabalho específico focado na competição da Conmebol",
+		"url": "https://www.mg.superesportes.com.br/app/noticias/futebol/atletico-mg/2021/03/24/noticia_atletico_mg,3908195/keno-do-atletico-elege-o-time-a-ser-batido-na-copa-libertadores.shtml",
+		"urlToImage": "https://i.superesportes.com.br/73smVwEqW1x81rUQnKkDi4U8Fk4=/smart/imgsapp.mg.superesportes.com.br/app/noticia_126420360808/2021/03/24/3908195/20210324095212181493e.jpg",
+		"publishedAt": "2021-03-24T12:08:00Z",
+		"content": "Keno elegeu o River Plate como o time a ser batido na Copa Libertadores deste ano. Nas últimas seis edições do torneio continental, o time argentino chegou a cinco semifinais, sendo campeão duas veze… [+1196 chars]"
+	}, {
+		"source": {
+			"id": "globo",
+			"name": "Globo"
+		},
+		"author": "O Globo",
+		"title": "Reage Rio!: Eduardo Paes analisa a relação com Bolsonaro e Castro e os desafios do Rio na disparada da Covid - Jornal O Globo",
+		"description": "Prefeito abriu o dia de debates do evento; economia e questões sociais pautam as mesas seguintes",
+		"url": "https://oglobo.globo.com/rio/reage-rio/reage-rio-eduardo-paes-analisa-relacao-com-bolsonaro-castro-os-desafios-do-rio-na-disparada-da-covid-24937547",
+		"urlToImage": "https://ogimg.infoglobo.com.br/rio/24938724-219-2d4/FT1086A/O-prefeito-Eduardo-Paes.jpg",
+		"publishedAt": "2021-03-24T12:00:04Z",
+		"content": "No mês de aniversário do Rio de Janeiro, o \"Reage, Rio!\" coloca em debate os desafios para a recuperação da cidade após um ano do início da pandemia. Na abertura do evento, o prefeito Eduardo Paes fo… [+4807 chars]"
+	}, {
+		"source": {
+			"id": null,
+			"name": "Istoe.com.br"
+		},
+		"author": "Da Redação",
+		"title": "Caso Henry: médicas relatam que menino já chegou morto e com lesões em hospital - Istoe",
+		"description": "De acordo com informações do jornal Extra, o delegado Henrique Damasceno, titular da 16ª DP (Barra da Tijuca), ouviu 12 testemunhas no inquérito que apura a morte de Henri Borel Medeiros, de 4 anos, na madrugada do último dia 8. Entre elas, três médicas pedia…",
+		"url": "https://istoe.com.br/caso-henry-medicas-relatam-que-menino-ja-chegou-morto-e-com-lesoes-em-hospital/",
+		"urlToImage": "https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2021/03/henry-borel.jpg",
+		"publishedAt": "2021-03-24T11:30:00Z",
+		"content": "De acordo com informações do jornal Extra, o delegado Henrique Damasceno, titular da 16ª DP (Barra da Tijuca), ouviu 12 testemunhas no inquérito que apura a morte de Henri Borel Medeiros, de 4 anos, … [+2942 chars]"
+	}]
+}

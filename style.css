@@ -1,0 +1,68 @@
+body {
+    background: rgb(255, 255, 255);
+}
+header {
+    color: white;
+    text-align: center;
+    font: normal, 15pt, arial;
+}
+nav {
+  color: black;
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.377);  
+}
+.quadro {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.377);
+}
+.news {
+    background: rgb(255, 0, 0);
+    border-radius: 10px;
+    padding: 15px;
+    width: 1300px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.377);
+}
+.noticia {
+    background: white;
+    width: 600px;
+    margin: 5px;
+    border-radius: 10px;
+}
+table {
+    background-color: rgb(255, 255, 255);
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+footer {
+    color: white;
+    text-align: center;
+    font: italic;
+}
+#msg {
+    text-align: center;
+    font-size: 25px;
+}
+#foto {
+    text-align: center;
+    margin-top: 15px;
+}
+p { 
+    text-align: center;
+}
