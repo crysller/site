@@ -2,41 +2,91 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Moedas</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap-5.0/css/bootstrap.min.css">
+    <!-- Bootstrap core CSS -->
+
+    <style>
+        .bd-placeholder-img {
+          font-size: 1.125rem;
+          text-anchor: middle;
+          -webkit-user-select: none;
+          -moz-user-select: none;
+          user-select: none;
+        }
+  
+        @media (min-width: 768px) {
+          .bd-placeholder-img-lg {
+            font-size: 3.5rem;
+          }
+        }
+      </style>
 </head>
 <body style="background-color: #555555;">
     <header>
-        <nav>
-            <a href="index.html">Home</a> |
-            <a href="moedas.html">Moedas</a> |
-            <a href="news.html">News</a>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Eighth navbar example">
+            <div class="container">
+                <a class="navbar-brand" href="#">Enryck Crysller</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarsExample07">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="moedas.html">Moedas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="news.html">Notícias</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </nav>
-    <h1>Moedas</h1>
+    <h1 style="text-align: center;">Moedas</h1>
     </header>
+
+<main>
     <section class="quadro">
-    <table>
-        <tr>
-            <th>Nome da Moeda</th>
-            <th>Alta</th>
-            <th>Baixa</th>
-            <th>Compra</th>
-            <th>Venda</th>
-        </tr>
-        <tr>
-            <td id="Nome"></td>
-            <td id="Alta"></td>
-            <td id="Baixa"></td>
-            <td id="Compra"></td>
-            <td id="Venda"></td>
-        </tr>
-    </table>
+        <div class="album py-5 bg-light">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Moeda</th>
+                        <th scope="col">Alta</th>
+                        <th scope="col">Baixa</th>
+                        <th scope="col">Compra</th>
+                        <th scope="col">Venda</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th id="Nome1" scope="row"></th>
+                        <td id="Alta1"></td>
+                        <td id="Baixa1"></td>
+                        <td id="Compra1"></td>
+                        <td id="Venda1"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </section>
-    <footer>
-        <p> &copy; Enryck Crysller </p>
+</main>
+
+    <footer class="text-muted py-5">
+        <div class="container">
+          <p class="mb-1">Album example is &copy; Bootstrap and Enryck Crysller.</p>
+        </div>
     </footer>
     <script src="js/cotacao.js"></script>
+    <script src="bootstrap-5.0/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

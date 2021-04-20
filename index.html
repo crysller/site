@@ -2,19 +2,57 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>hora do dia</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap-5.0/css/bootstrap.min.css">
+    <!-- Bootstrap core CSS -->
+
+    <style>
+        .bd-placeholder-img {
+          font-size: 1.125rem;
+          text-anchor: middle;
+          -webkit-user-select: none;
+          -moz-user-select: none;
+          user-select: none;
+        }
+  
+        @media (min-width: 768px) {
+          .bd-placeholder-img-lg {
+            font-size: 3.5rem;
+          }
+        }
+      </style>
 </head>
+
 <body onload="carregar()">
     <header>
-        <nav>
-            <a href="index.html">Home</a> |
-            <a href="moedas.html">Moedas</a> |
-            <a href="news.html">News</a>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Eighth navbar example">
+            <div class="container">
+                <a class="navbar-brand" href="#">Enryck Crysller</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarsExample07">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="moedas.html">Moedas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="news.html">Notícias</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </nav>
-        <h1>Hora do dia</h1>
+        <h1 style="text-align: center;">Hora do dia</h1>
     </header>
     <section class="quadro">
         <div id="msg"></div>
@@ -22,9 +60,12 @@
             <img id="imagem">
         </div>
     </section>
-    <footer>
-        <p> &copy; Enryck Crysller </p>
-    </footer>
+    <footer class="text-muted py-5">
+        <div class="container">
+          <p class="mb-1">Album example is &copy; Bootstrap and Enryck Crysller.</p>
+        </div>
+      </footer>
     <script src="js/timer.js"></script>
+    <script src="bootstrap-5.0/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
