@@ -1,0 +1,102 @@
+/* Global ===================== */
+:root {
+    --dark-blue: #363f5f;
+    --green: #49AA26;
+    --light-green: #3dd705;
+    --red: #e92929;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 93.75%; /* 15px */
+}
+
+body {
+    background: #f0f2f5;
+    font-family:'Poppins', sans-serif
+}
+
+.container {
+    width: min(90vw, 800px);
+    margin: auto;
+}
+
+/* Titles ===================== */
+h2 {
+    margin-top: 3.2rem;
+    margin-bottom: 0.8rem;
+    color: var(--dark-blue);
+    font-weight: normal;
+}
+/* Perfil ===================== */
+.perfil {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: x-large;
+}
+
+.perfil h1 {
+    margin-top: 1rem;
+}
+
+.perfil img {
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+}
+
+div {
+    text-align: center;
+}
+/* Moedas ===================== */
+table {
+    background-color: rgb(255, 255, 255);
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+/* Hora do dia ===================== */
+.quadro {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 700px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.377);
+}
+#msg {
+    text-align: center;
+    font-size: 25px;
+}
+#foto {
+    text-align: center;
+    margin-top: 15px;
+}
+#imagem {
+    padding: 1em;
+}
+.p {
+    text-align: center;
+    padding: 1em;
+}
+/* Footer ===================== */
+footer {
+    text-align: center;
+    padding: 4rem 0 2rem;
+    color: var(--dark-blue);
+    opacity: 0.6;
+}
